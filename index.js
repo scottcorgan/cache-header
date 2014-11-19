@@ -1,4 +1,4 @@
-var _isNumber = require('lodash.isNumber');
+var _isNumber = require('lodash.isnumber');
 var isString = require('lodash.isString');
 var regular = require('regular');
 
