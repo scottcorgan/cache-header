@@ -1,5 +1,5 @@
 var _isNumber = require('lodash.isnumber');
-var isString = require('lodash.isString');
+var isString = require('lodash.isstring');
 var regular = require('regular');
 
 module.exports = function (res, headerValue) {
