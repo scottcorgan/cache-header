@@ -1,7 +1,6 @@
 var cacheHeader = require('./index.js');
 var connect = require('connect');
 var request = require('supertest');
-var expect = require('chai').expect;
 
 describe('Cache Control header', function () {
   
